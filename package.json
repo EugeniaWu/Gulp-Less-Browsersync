@@ -1,0 +1,23 @@
+{
+  "name": "gulp.html",
+  "version": "1.0.0",
+  "description": "Gulp html ",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp compress"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.2.0",
+    "gulp": "^3.8.11",
+    "gulp-cache": "^1.0.1",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-imagemin": "^3.4.0",
+    "gulp-less": "^3.3.2",
+    "gulp-uglify": "^3.0.0",
+    "imagemin-pngquant": "^5.0.1"
+  }
+}
